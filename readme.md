@@ -1,4 +1,4 @@
-# GIT / GIT HUB
+# GIT / GIT HUB.
 # Usando 2 contas GIT na mesma máquina
 # Using 2 GIT accounts on the same machine
 
